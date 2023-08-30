@@ -1,2 +1,1 @@
-#!/bin/bash
-echoo "The chool is open!"
+echo "The chool is open!"
